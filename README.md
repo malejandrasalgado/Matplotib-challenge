@@ -11,7 +11,7 @@ The process of the project Matplotib-challenge :
 6.	Generate the graphs 
 7.	First draft was pushed in GigHub. 
 8.	After having a tutorial my tutor indicated that the clean DataFrame was wrong as I filter the data by the last point. I made the changes straight away 
-9.	Calculating the final tumour volume was the hardest part. My initial interpretation was that the maximum timepoint for all mice was 45 so I had to go analyse and understand data. I realised that the last time was not only 45. So I had ato update my data and graphs.
+9.	Calculating the final tumour volume was the hardest part. My initial interpretation was that the maximum timepoint for all mice was 45 so I had to go analyse and understand data. I realised that the last time was not only 45. So I had to update my data and graphs.
 10.	Read an article of how to use Markdown in Jupyter 
 11.	Write the observations of the results 
 12.	Write the process  
